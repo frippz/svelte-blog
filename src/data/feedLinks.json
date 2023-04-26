@@ -1,0 +1,17 @@
+[
+	{
+		"label": "Atom feed",
+		"icon": "icon-feed",
+		"url": "/feed.xml"
+	},
+	{
+		"label": "JSON feed",
+		"icon": "icon-json-feed",
+		"url": "/feed.json"
+	},
+	{
+		"label": "Tags",
+		"icon": "icon-tag",
+		"url": "/tags/"
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"label": "Github",
+		"icon": "icon-github",
+		"url": "https://github.com/frippz"
+	},
+	{
+		"label": "LinkedIn",
+		"icon": "icon-linkedin",
+		"url": "https://linkedin.com/in/fredrikfrodlund"
+	},
+	{
+		"label": "CodePen",
+		"icon": "icon-codepen",
+		"url": "https://codepen.io/frippz"
+	},
+	{
+		"label": "Stack Overflow",
+		"icon": "icon-stackoverflow",
+		"url": "https://stackoverflow.com/users/2204730/fredrik-frodlund"
+	}
+]
